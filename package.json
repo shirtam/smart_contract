@@ -24,7 +24,7 @@
     "mocha": "2.4.5",
     "nat-upnp": "1.0.0",
     "pg-promise": "^6.3.8",
-    "request": "2.81.0",
+    "request": "2.82.0",
     "requestretry": "^1.12.2",
     "sha256": "0.2.0",
     "solc": "0.4.2",
